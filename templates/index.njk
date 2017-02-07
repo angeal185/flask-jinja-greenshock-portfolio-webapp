@@ -1,0 +1,26 @@
+{% extends "layout.njk" %}
+{% block main %}
+<div id="page-wrapper" aria-live="polite">
+	<div class="page-container page_home" data-namespace="home" data-pagetype="home">
+{% include "includes/nav.njk" %}		
+{% include "includes/side-nav.njk" %}		
+		<h6 class="sub_logo"><a href=""><span class="text" data-chaffle>BEN EAVES</span></a></h6>
+		<div class="full_container">
+			<section>
+			{% include "includes/first.njk" %}
+			<a href="#" class="btn_dive">
+				<div class="iconf"><span>_</span><span>_</span></div>
+				<div class="line"></div>
+			</a>
+			{% include "includes/message.njk" %}	
+			{% include "includes/works1.njk" %}	
+			{% include "includes/works2.njk" %}
+			{% include "includes/works3.njk" %}
+			{% include "includes/about.njk" %}
+			{% include "includes/contact.njk" %}
+			</section>
+		</div>
+	</div>
+</div>
+{% include "snippets/canvas.njk" %}
+{% endblock %}
