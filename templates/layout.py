@@ -17,7 +17,7 @@
 {% block main %}
 {% endblock %}
 </div>
-{% include "includes/loader.njk" %}
-{% include "includes/footerJs.njk" %}
+{% include "includes/loader.py" %}
+{% include "includes/footerJs.py" %}
 </body>
 </html>
