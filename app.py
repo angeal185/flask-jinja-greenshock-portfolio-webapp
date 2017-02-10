@@ -12,9 +12,9 @@ layout_args = {
 
 @app.route("/")	
 @app.route("/index")
-@app.route("/index.njk")
+@app.route("/index.py")
 def home():
-    return render_template("index.njk", **layout_args)
+    return render_template("index.py", **layout_args)
 
 app.debug = True
 
