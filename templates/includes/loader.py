@@ -1,4 +1,4 @@
-﻿  <script id="sf" type="x-shader/x-fragment">
+<script id="sf" type="x-shader/x-fragment">
 precision highp float;
 uniform float time;
 uniform vec2 mouse;
