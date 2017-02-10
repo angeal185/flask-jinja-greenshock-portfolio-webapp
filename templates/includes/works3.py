@@ -1,4 +1,4 @@
-﻿<div class="panel p_works" data-anc="works3">
+<div class="panel p_works" data-anc="works3">
 	<div class="panel_back">
 		<div class="bgimg fullbg light" data-cover="static/assets/img/bg-9.JPG"></div>
 	</div>
