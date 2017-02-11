@@ -5,5 +5,5 @@
 <script src="{{static.js}}home.js"></script>
 <script src="{{static.js}}functions.js"></script>
 <script src="{{static.js}}transitions.js"></script>
-<script src="{{static.js}}wow.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
 <script src="{{static.js}}init.js"></script>
