@@ -1,2 +1,2 @@
 # flask-jinja-greenshock-portfolio-webapp
-portfolio site created with flask, jinja and greenshock
+portfolio site created with flask, jinja and gsap
